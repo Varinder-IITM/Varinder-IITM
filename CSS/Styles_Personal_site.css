@@ -33,6 +33,6 @@
     }
     .select:hover {
         float: right;
-        padding: 5px;
+        padding-right: 5px;
         margin-right: 88%;
     }
