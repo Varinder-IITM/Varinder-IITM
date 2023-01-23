@@ -1,0 +1,172 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.Top {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #a4b9b5;
+    position: relative;
+}
+.top_img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 100%; 
+    width: 80%;
+    margin-top: 5%;
+}
+.cloud1 {
+    margin-left: 60%;
+    margin-top: 2%;
+}
+.cloud2 {
+    position: absolute;
+    margin-bottom: 100%;
+    margin-left: 0%;
+    margin-right: 50%;
+}
+.intro_name {
+    font-family: 'Sacramento';
+    font-size: 2.5cm;
+    margin: 0; 
+    padding: 0;
+    color: #387469;
+}
+hr {
+    border: none;
+    color: #a2e3d7;
+    height: 0;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-radius: 0px;
+    width: 5%;
+}
+.hr_link1 {
+    border: none;
+    color:  #a2e3d7;
+    height: 0;
+    border-top-style: dotted;
+    border-width: 5px;
+    position: absolute;
+    left: 33.5%;
+    top: 69.5%;
+    width: 6%;
+}
+.hr_link2 {
+    border: none;
+    color:  #a2e3d7;
+    height: 0;
+    border-top-style: dotted;
+    border-width: 5px;
+    position: absolute;
+    right: 37%;
+    top: 95%;
+    width: 6%;
+}
+.part2 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+    position: relative;
+}
+.part3 {
+    text-align: center;
+}
+.bitmoji1 {
+    position: absolute;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    left: 26%;
+    top: 67.5%;
+}
+.emoji1 {
+    position: absolute;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    left: 40%;
+    top: 69.4%;
+    height: 32px;
+}
+.bitmoji2 {
+    position: absolute;
+    margin: 0;  
+    border: 0;
+    padding: 0;
+    right: 30%;
+    top: 93%;
+}
+.emoji2 {
+    position: absolute;
+    margin: 0;  
+    border: 0;
+    padding: 0;
+    right: 43%;
+    top: 94%;
+    height: 40px;
+}
+.text1 {
+    margin-left: 45%;
+}
+.text1_under {
+    margin-left: 45%;
+    text-align: left;
+}
+.text2 {
+    margin-right: 28%;
+}
+.text2_under {
+    margin-right: 48.3%;
+    text-align: right;
+}
+h1 {
+    margin: 0; 
+    padding: 0;
+    color:  #7dc0b4;
+}
+p {
+    font-family: 'Merriweather', serif;
+    font-size: large;
+}
+footer {
+    height: 150px;
+    background-color: #a2e3d7;
+}
+.msg_me {
+    font-weight: 700;
+    position: relative;
+    text-align: center;
+    background-color: #78b8ac;
+    display: inline-block;
+    width: 15%;
+    height: 25px;
+}
+.mail_icon {
+    height: 30px;
+    display: inline-block;
+    position: absolute;
+    bottom: -2%;
+    left: 15%;
+}
+a {
+    padding: 1%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color:  #075547;
+    text-decoration: none;
+}
+footer {
+    height: 20%;
+    text-align: center;
+    position: relative;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 10%;
+    border-bottom: 0;
+    margin-bottom: 0;
+}
